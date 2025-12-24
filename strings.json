@@ -1,0 +1,18 @@
+{
+    "fr": {
+        "menu_chat": "💬 Chat",
+        "menu_rp": "🎭 Roleplay",
+        "menu_models": "📥 Modèles",
+        "menu_settings": "⚙️ Paramètres",
+        "btn_call": "📞 APPEL",
+        "btn_test_mic": "Démarrer Test Micro"
+    },
+    "en": {
+        "menu_chat": "💬 Chat",
+        "menu_rp": "🎭 Roleplay",
+        "menu_models": "📥 Models",
+        "menu_settings": "⚙️ Settings",
+        "btn_call": "📞 CALL",
+        "btn_test_mic": "Start Mic Test"
+    }
+}
